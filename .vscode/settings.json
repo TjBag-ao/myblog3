@@ -1,0 +1,7 @@
+{
+    "git.autofetch": true,
+    "git.verboseCommit": true,
+    "git.enabled": true,
+    "git.decorations.enabled": true
+    
+}
